@@ -1,60 +1,71 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=190&section=header&text=Leandro%20Toledo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Mobile%20e%20Full%20Stack&descAlignY=58&descSize=20" alt="Leandro Toledo — Desenvolvedor Mobile e Full Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:4338ca&height=170&section=header&text=Leandro%20Toledo&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Mobile%20Developer%20%C2%B7%20React%20Native%20%C2%B7%20Full%20Stack&descAlignY=58&descSize=18" alt="Leandro Toledo — Mobile Developer, React Native e Full Stack" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Le-Toledo?tab=repositories"><img src="https://img.shields.io/badge/Portf%C3%B3lio-GitHub-181717?style=for-the-badge&logo=github" alt="Portfólio no GitHub" /></a>
-  <img src="https://img.shields.io/badge/Foco-Mobile%20%26%20Full%20Stack-2563eb?style=for-the-badge" alt="Foco em Mobile e Full Stack" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Sim-16a34a?style=for-the-badge" alt="Open to Work" />
+  Desenvolvimento mobile e full stack com React Native, TypeScript e integrações de backend.
 </p>
 
-## Olá! 👋
+## Sobre
 
-Sou **Leandro Toledo**, desenvolvedor com foco em produtos mobile e aplicações full stack. Construo experiências voltadas a problemas reais — de plataformas educacionais gamificadas a sistemas de gestão, saúde, finanças e agendamento.
+Desenvolvo aplicações que combinam interface mobile, persistência de dados e serviços de backend. Meu trabalho recente inclui um produto educacional publicado, um SaaS de documentação clínica, sistemas de gestão e aplicativos de agendamento e finanças.
 
-Meu objetivo profissional é atuar em times onde eu possa aprofundar engenharia mobile com React Native, integrar produtos a serviços de backend e entregar software bem organizado, acessível e confiável.
+Estou aberto a oportunidades como **Mobile Developer**, **React Native Developer**, **Full Stack Developer** e **Software Engineer**.
 
 ## Especialidades
 
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo" alt="Expo" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-</p>
+| Área | Tecnologias utilizadas nos projetos |
+| --- | --- |
+| Mobile development | React Native, Expo, Expo Router, TypeScript, JavaScript |
+| Frontend | React, Vite, Tailwind CSS, NativeWind |
+| Backend e integrações | REST API, Supabase, Firebase, .NET, Spring Boot |
+| Dados | AsyncStorage, Firebase/Firestore, Supabase, SQL Server, H2 |
+| Ferramentas | Git, GitHub, EAS Build, Docker |
 
-## Projetos em destaque
+## Projeto em destaque — CodeQuest
 
-| Projeto | O que demonstra | Stack principal |
-| --- | --- | --- |
-| [CodeQuest Academy](https://github.com/Le-Toledo/devquest) | Plataforma gamificada de ensino com campanha, quizzes, Arena de Código, revisão e sincronização. | React Native · Expo · TypeScript · Supabase |
-| [Medical Sync](https://github.com/Le-Toledo/Medical-sync) | SaaS de documentação clínica com IA em arquitetura de monorepo. | .NET 9 · React · React Native |
-| [Controle Financeiro](https://github.com/Le-Toledo/controle-financeiro) | Gestão pessoal de receitas, despesas e orçamento. | TypeScript |
-| [Lava Rápido](https://github.com/Le-Toledo/lavarapido-web) | Gestão web e agendamento mobile para operação automotiva. | React · Vite · Tailwind · Firebase · React Native |
-| [Inventory Control](https://github.com/Le-Toledo/Inventory-control) | Controle de inventário, produção e relatórios. | Spring Boot · React |
+[**CodeQuest**](https://github.com/Le-Toledo/devquest) é um aplicativo de aprendizado de programação que usa uma estrutura de jogo para organizar prática, conteúdo e evolução do usuário.
 
-## Atividade no GitHub
+O projeto reúne campanha, quizzes, desafios na Arena de Código, Academia Dev, Laboratório de Revisão, conquistas, ranking e um tutor chamado Professor Byte. O problema que ele aborda é tornar a prática de fundamentos de programação mais estruturada e contínua, com progresso persistido entre sessões.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Le-Toledo&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub de Leandro Toledo" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Toledo&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas por Leandro Toledo" />
-</p>
+| Aspecto | Implementação |
+| --- | --- |
+| Mobile | React Native, Expo SDK 54 e TypeScript |
+| Dados | AsyncStorage como base local; Supabase para autenticação, ranking e sincronização |
+| Integrações | Supabase Auth, REST/Edge Function para o Professor Byte e fallback local |
+| Arquitetura | Telas, componentes, hooks, services, dados versionados, tipos e tokens visuais separados por responsabilidade |
+| Funcionalidades | Campanha, quizzes, Arena de Código, aulas, revisão espaçada, perfil, XP, streak, loja e feedback |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Le-Toledo&hide_border=true&background=00000000&ring=2563EB&fire=7C3AED&currStreakLabel=475569" alt="Sequência de contribuições de Leandro Toledo" />
-</p>
+O app está disponível na App Store: [CodeQuest](https://apps.apple.com/br/app/codequest/id6787722072?uo=4). O repositório não contém screenshots ou GIFs públicos do aplicativo; por isso, esta seção não usa imagens de demonstração artificiais.
 
-## Vamos conversar
+## Outros projetos
+
+| Projeto | Valor técnico |
+| --- | --- |
+| [Medical Sync](https://github.com/Le-Toledo/Medical-sync) | Monorepo de documentação clínica com IA que combina API em .NET 9, interface React e aplicativo React Native; exercita integração entre produto, backend e infraestrutura local. |
+| [Controle Financeiro](https://github.com/Le-Toledo/controle-financeiro) | Aplicativo Expo com Firebase, Expo Router, React Query, Zustand e validação com Zod para receitas, despesas, orçamento, família e despesas fixas. |
+| [Lava Rápido — Web](https://github.com/Le-Toledo/lavarapido-web) | Painel de operação para lava-rápidos com autenticação, agenda, serviços, relatórios e isolamento de dados por estabelecimento em Firebase. |
+| [Lava Rápido — Mobile](https://github.com/Le-Toledo/lavarapido-mobile) | Fluxo mobile de agendamento que cobre autenticação, veículos, serviços, horários, fila e histórico de atendimentos. |
+| [Inventory Control](https://github.com/Le-Toledo/Inventory-control) | Sistema full stack de estoque e produção com Spring Boot, React, Redux Toolkit e relatório de capacidade produtiva. |
+
+## Experiência prática construída nos projetos
+
+- Desenvolvimento de interfaces mobile para Android, iOS e web com React Native e Expo.
+- Autenticação, persistência local, sincronização de dados e tratamento de estados offline.
+- Integração com REST API, Supabase, Firebase e bancos relacionais.
+- Organização de aplicações por camadas, com separação de UI, estado, services, dados e contratos TypeScript.
+- Configuração de builds mobile com EAS e publicação do CodeQuest na App Store.
+- Modelagem de fluxos de produto: cadastro, agendamento, progresso, relatórios, ranking e feedback.
+
+## Contato
 
 - GitHub: [@Le-Toledo](https://github.com/Le-Toledo)
-- Projetos: [todos os repositórios](https://github.com/Le-Toledo?tab=repositories)
-- Oportunidades: estou aberto a posições de desenvolvimento **Mobile, React Native e Full Stack**.
+- App Store: [CodeQuest](https://apps.apple.com/br/app/codequest/id6787722072?uo=4)
+- Repositórios: [github.com/Le-Toledo](https://github.com/Le-Toledo?tab=repositories)
+
+## Atividade
 
 <p align="center">
-  <i>Construindo software que une boa experiência de produto, aprendizado contínuo e engenharia prática.</i>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Le-Toledo&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" alt="Estatísticas de atividade no GitHub" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Le-Toledo&hide_border=true&background=00000000&ring=2563EB&fire=4338CA&currStreakLabel=475569" alt="Sequência de contribuições no GitHub" />
 </p>
